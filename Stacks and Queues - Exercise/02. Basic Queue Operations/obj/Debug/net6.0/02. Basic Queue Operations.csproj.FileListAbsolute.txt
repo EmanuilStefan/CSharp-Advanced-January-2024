@@ -1,0 +1,14 @@
+C:\Users\Amanite\source\repos\C#Advanced - January 2024\Stacks and Queues - Exercise\02. Basic Queue Operations\bin\Debug\net6.0\02. Basic Queue Operations.exe
+C:\Users\Amanite\source\repos\C#Advanced - January 2024\Stacks and Queues - Exercise\02. Basic Queue Operations\bin\Debug\net6.0\02. Basic Queue Operations.deps.json
+C:\Users\Amanite\source\repos\C#Advanced - January 2024\Stacks and Queues - Exercise\02. Basic Queue Operations\bin\Debug\net6.0\02. Basic Queue Operations.runtimeconfig.json
+C:\Users\Amanite\source\repos\C#Advanced - January 2024\Stacks and Queues - Exercise\02. Basic Queue Operations\bin\Debug\net6.0\02. Basic Queue Operations.dll
+C:\Users\Amanite\source\repos\C#Advanced - January 2024\Stacks and Queues - Exercise\02. Basic Queue Operations\bin\Debug\net6.0\02. Basic Queue Operations.pdb
+C:\Users\Amanite\source\repos\C#Advanced - January 2024\Stacks and Queues - Exercise\02. Basic Queue Operations\obj\Debug\net6.0\02. Basic Queue Operations.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Amanite\source\repos\C#Advanced - January 2024\Stacks and Queues - Exercise\02. Basic Queue Operations\obj\Debug\net6.0\02. Basic Queue Operations.AssemblyInfoInputs.cache
+C:\Users\Amanite\source\repos\C#Advanced - January 2024\Stacks and Queues - Exercise\02. Basic Queue Operations\obj\Debug\net6.0\02. Basic Queue Operations.AssemblyInfo.cs
+C:\Users\Amanite\source\repos\C#Advanced - January 2024\Stacks and Queues - Exercise\02. Basic Queue Operations\obj\Debug\net6.0\02. Basic Queue Operations.csproj.CoreCompileInputs.cache
+C:\Users\Amanite\source\repos\C#Advanced - January 2024\Stacks and Queues - Exercise\02. Basic Queue Operations\obj\Debug\net6.0\02. Basic Queue Operations.dll
+C:\Users\Amanite\source\repos\C#Advanced - January 2024\Stacks and Queues - Exercise\02. Basic Queue Operations\obj\Debug\net6.0\refint\02. Basic Queue Operations.dll
+C:\Users\Amanite\source\repos\C#Advanced - January 2024\Stacks and Queues - Exercise\02. Basic Queue Operations\obj\Debug\net6.0\02. Basic Queue Operations.pdb
+C:\Users\Amanite\source\repos\C#Advanced - January 2024\Stacks and Queues - Exercise\02. Basic Queue Operations\obj\Debug\net6.0\02. Basic Queue Operations.genruntimeconfig.cache
+C:\Users\Amanite\source\repos\C#Advanced - January 2024\Stacks and Queues - Exercise\02. Basic Queue Operations\obj\Debug\net6.0\ref\02. Basic Queue Operations.dll

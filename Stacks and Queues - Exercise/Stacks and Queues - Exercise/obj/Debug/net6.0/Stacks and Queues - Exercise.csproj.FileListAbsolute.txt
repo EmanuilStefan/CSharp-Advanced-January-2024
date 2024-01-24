@@ -1,0 +1,14 @@
+C:\Users\Amanite\source\repos\C#Advanced - January 2024\Stacks and Queues - Exercise\Stacks and Queues - Exercise\bin\Debug\net6.0\Stacks and Queues - Exercise.exe
+C:\Users\Amanite\source\repos\C#Advanced - January 2024\Stacks and Queues - Exercise\Stacks and Queues - Exercise\bin\Debug\net6.0\Stacks and Queues - Exercise.deps.json
+C:\Users\Amanite\source\repos\C#Advanced - January 2024\Stacks and Queues - Exercise\Stacks and Queues - Exercise\bin\Debug\net6.0\Stacks and Queues - Exercise.runtimeconfig.json
+C:\Users\Amanite\source\repos\C#Advanced - January 2024\Stacks and Queues - Exercise\Stacks and Queues - Exercise\bin\Debug\net6.0\Stacks and Queues - Exercise.dll
+C:\Users\Amanite\source\repos\C#Advanced - January 2024\Stacks and Queues - Exercise\Stacks and Queues - Exercise\bin\Debug\net6.0\Stacks and Queues - Exercise.pdb
+C:\Users\Amanite\source\repos\C#Advanced - January 2024\Stacks and Queues - Exercise\Stacks and Queues - Exercise\obj\Debug\net6.0\Stacks and Queues - Exercise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Amanite\source\repos\C#Advanced - January 2024\Stacks and Queues - Exercise\Stacks and Queues - Exercise\obj\Debug\net6.0\Stacks and Queues - Exercise.AssemblyInfoInputs.cache
+C:\Users\Amanite\source\repos\C#Advanced - January 2024\Stacks and Queues - Exercise\Stacks and Queues - Exercise\obj\Debug\net6.0\Stacks and Queues - Exercise.AssemblyInfo.cs
+C:\Users\Amanite\source\repos\C#Advanced - January 2024\Stacks and Queues - Exercise\Stacks and Queues - Exercise\obj\Debug\net6.0\Stacks and Queues - Exercise.csproj.CoreCompileInputs.cache
+C:\Users\Amanite\source\repos\C#Advanced - January 2024\Stacks and Queues - Exercise\Stacks and Queues - Exercise\obj\Debug\net6.0\Stacks and Queues - Exercise.dll
+C:\Users\Amanite\source\repos\C#Advanced - January 2024\Stacks and Queues - Exercise\Stacks and Queues - Exercise\obj\Debug\net6.0\refint\Stacks and Queues - Exercise.dll
+C:\Users\Amanite\source\repos\C#Advanced - January 2024\Stacks and Queues - Exercise\Stacks and Queues - Exercise\obj\Debug\net6.0\Stacks and Queues - Exercise.pdb
+C:\Users\Amanite\source\repos\C#Advanced - January 2024\Stacks and Queues - Exercise\Stacks and Queues - Exercise\obj\Debug\net6.0\Stacks and Queues - Exercise.genruntimeconfig.cache
+C:\Users\Amanite\source\repos\C#Advanced - January 2024\Stacks and Queues - Exercise\Stacks and Queues - Exercise\obj\Debug\net6.0\ref\Stacks and Queues - Exercise.dll
