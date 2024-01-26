@@ -56,7 +56,7 @@ while (true)
     }
     else
     {
-        Console.WriteLine("Invalid command. Please enter a valid command.");
+        Console.WriteLine("Invalid input!");
     }
 }
 

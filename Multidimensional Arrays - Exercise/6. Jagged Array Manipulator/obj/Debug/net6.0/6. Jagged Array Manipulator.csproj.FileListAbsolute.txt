@@ -1,0 +1,15 @@
+C:\Users\Amanite\source\repos\C#Advanced - January 2024\Multidimensional Arrays - Exercise\6. Jagged Array Manipulator\bin\Debug\net6.0\6. Jagged Array Manipulator.exe
+C:\Users\Amanite\source\repos\C#Advanced - January 2024\Multidimensional Arrays - Exercise\6. Jagged Array Manipulator\bin\Debug\net6.0\6. Jagged Array Manipulator.deps.json
+C:\Users\Amanite\source\repos\C#Advanced - January 2024\Multidimensional Arrays - Exercise\6. Jagged Array Manipulator\bin\Debug\net6.0\6. Jagged Array Manipulator.runtimeconfig.json
+C:\Users\Amanite\source\repos\C#Advanced - January 2024\Multidimensional Arrays - Exercise\6. Jagged Array Manipulator\bin\Debug\net6.0\6. Jagged Array Manipulator.dll
+C:\Users\Amanite\source\repos\C#Advanced - January 2024\Multidimensional Arrays - Exercise\6. Jagged Array Manipulator\bin\Debug\net6.0\6. Jagged Array Manipulator.pdb
+C:\Users\Amanite\source\repos\C#Advanced - January 2024\Multidimensional Arrays - Exercise\6. Jagged Array Manipulator\obj\Debug\net6.0\6. Jagged Array Manipulator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Amanite\source\repos\C#Advanced - January 2024\Multidimensional Arrays - Exercise\6. Jagged Array Manipulator\obj\Debug\net6.0\6. Jagged Array Manipulator.AssemblyInfoInputs.cache
+C:\Users\Amanite\source\repos\C#Advanced - January 2024\Multidimensional Arrays - Exercise\6. Jagged Array Manipulator\obj\Debug\net6.0\6. Jagged Array Manipulator.AssemblyInfo.cs
+C:\Users\Amanite\source\repos\C#Advanced - January 2024\Multidimensional Arrays - Exercise\6. Jagged Array Manipulator\obj\Debug\net6.0\6. Jagged Array Manipulator.csproj.CoreCompileInputs.cache
+C:\Users\Amanite\source\repos\C#Advanced - January 2024\Multidimensional Arrays - Exercise\6. Jagged Array Manipulator\obj\Debug\net6.0\6. Jagged Array Manipulator.sourcelink.json
+C:\Users\Amanite\source\repos\C#Advanced - January 2024\Multidimensional Arrays - Exercise\6. Jagged Array Manipulator\obj\Debug\net6.0\6. Jagged Array Manipulator.dll
+C:\Users\Amanite\source\repos\C#Advanced - January 2024\Multidimensional Arrays - Exercise\6. Jagged Array Manipulator\obj\Debug\net6.0\refint\6. Jagged Array Manipulator.dll
+C:\Users\Amanite\source\repos\C#Advanced - January 2024\Multidimensional Arrays - Exercise\6. Jagged Array Manipulator\obj\Debug\net6.0\6. Jagged Array Manipulator.pdb
+C:\Users\Amanite\source\repos\C#Advanced - January 2024\Multidimensional Arrays - Exercise\6. Jagged Array Manipulator\obj\Debug\net6.0\6. Jagged Array Manipulator.genruntimeconfig.cache
+C:\Users\Amanite\source\repos\C#Advanced - January 2024\Multidimensional Arrays - Exercise\6. Jagged Array Manipulator\obj\Debug\net6.0\ref\6. Jagged Array Manipulator.dll
