@@ -1,0 +1,15 @@
+C:\Users\Amanite\source\repos\C#Advanced - January 2024\01. Unique Usernames\01. Unique Usernames\bin\Debug\net6.0\01. Unique Usernames.exe
+C:\Users\Amanite\source\repos\C#Advanced - January 2024\01. Unique Usernames\01. Unique Usernames\bin\Debug\net6.0\01. Unique Usernames.deps.json
+C:\Users\Amanite\source\repos\C#Advanced - January 2024\01. Unique Usernames\01. Unique Usernames\bin\Debug\net6.0\01. Unique Usernames.runtimeconfig.json
+C:\Users\Amanite\source\repos\C#Advanced - January 2024\01. Unique Usernames\01. Unique Usernames\bin\Debug\net6.0\01. Unique Usernames.dll
+C:\Users\Amanite\source\repos\C#Advanced - January 2024\01. Unique Usernames\01. Unique Usernames\bin\Debug\net6.0\01. Unique Usernames.pdb
+C:\Users\Amanite\source\repos\C#Advanced - January 2024\01. Unique Usernames\01. Unique Usernames\obj\Debug\net6.0\01. Unique Usernames.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Amanite\source\repos\C#Advanced - January 2024\01. Unique Usernames\01. Unique Usernames\obj\Debug\net6.0\01. Unique Usernames.AssemblyInfoInputs.cache
+C:\Users\Amanite\source\repos\C#Advanced - January 2024\01. Unique Usernames\01. Unique Usernames\obj\Debug\net6.0\01. Unique Usernames.AssemblyInfo.cs
+C:\Users\Amanite\source\repos\C#Advanced - January 2024\01. Unique Usernames\01. Unique Usernames\obj\Debug\net6.0\01. Unique Usernames.csproj.CoreCompileInputs.cache
+C:\Users\Amanite\source\repos\C#Advanced - January 2024\01. Unique Usernames\01. Unique Usernames\obj\Debug\net6.0\01. Unique Usernames.sourcelink.json
+C:\Users\Amanite\source\repos\C#Advanced - January 2024\01. Unique Usernames\01. Unique Usernames\obj\Debug\net6.0\01. Unique Usernames.dll
+C:\Users\Amanite\source\repos\C#Advanced - January 2024\01. Unique Usernames\01. Unique Usernames\obj\Debug\net6.0\refint\01. Unique Usernames.dll
+C:\Users\Amanite\source\repos\C#Advanced - January 2024\01. Unique Usernames\01. Unique Usernames\obj\Debug\net6.0\01. Unique Usernames.pdb
+C:\Users\Amanite\source\repos\C#Advanced - January 2024\01. Unique Usernames\01. Unique Usernames\obj\Debug\net6.0\01. Unique Usernames.genruntimeconfig.cache
+C:\Users\Amanite\source\repos\C#Advanced - January 2024\01. Unique Usernames\01. Unique Usernames\obj\Debug\net6.0\ref\01. Unique Usernames.dll

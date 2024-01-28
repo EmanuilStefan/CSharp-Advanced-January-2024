@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Amanite\\source\\repos\\C#Advanced - January 2024\\Multidimensional Arrays - Exercise\\Multidimensional Arrays - Exercise\\1. Diagonal Difference.csproj": {}
+    "C:\\Users\\Amanite\\source\\repos\\C#Advanced - January 2024\\Multidimensional Arrays - Exercise\\1. Diagonal Difference\\1. Diagonal Difference.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Amanite\\source\\repos\\C#Advanced - January 2024\\Multidimensional Arrays - Exercise\\Multidimensional Arrays - Exercise\\1. Diagonal Difference.csproj": {
+    "C:\\Users\\Amanite\\source\\repos\\C#Advanced - January 2024\\Multidimensional Arrays - Exercise\\1. Diagonal Difference\\1. Diagonal Difference.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Amanite\\source\\repos\\C#Advanced - January 2024\\Multidimensional Arrays - Exercise\\Multidimensional Arrays - Exercise\\1. Diagonal Difference.csproj",
+        "projectUniqueName": "C:\\Users\\Amanite\\source\\repos\\C#Advanced - January 2024\\Multidimensional Arrays - Exercise\\1. Diagonal Difference\\1. Diagonal Difference.csproj",
         "projectName": "1. Diagonal Difference",
-        "projectPath": "C:\\Users\\Amanite\\source\\repos\\C#Advanced - January 2024\\Multidimensional Arrays - Exercise\\Multidimensional Arrays - Exercise\\1. Diagonal Difference.csproj",
+        "projectPath": "C:\\Users\\Amanite\\source\\repos\\C#Advanced - January 2024\\Multidimensional Arrays - Exercise\\1. Diagonal Difference\\1. Diagonal Difference.csproj",
         "packagesPath": "C:\\Users\\Amanite\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Amanite\\source\\repos\\C#Advanced - January 2024\\Multidimensional Arrays - Exercise\\Multidimensional Arrays - Exercise\\obj\\",
+        "outputPath": "C:\\Users\\Amanite\\source\\repos\\C#Advanced - January 2024\\Multidimensional Arrays - Exercise\\1. Diagonal Difference\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
