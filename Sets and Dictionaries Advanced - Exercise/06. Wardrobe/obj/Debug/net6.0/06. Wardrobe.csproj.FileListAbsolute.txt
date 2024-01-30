@@ -1,0 +1,15 @@
+C:\Users\Amanite\source\repos\C#Advanced - January 2024\Sets and Dictionaries Advanced - Exercise\06. Wardrobe\bin\Debug\net6.0\06. Wardrobe.exe
+C:\Users\Amanite\source\repos\C#Advanced - January 2024\Sets and Dictionaries Advanced - Exercise\06. Wardrobe\bin\Debug\net6.0\06. Wardrobe.deps.json
+C:\Users\Amanite\source\repos\C#Advanced - January 2024\Sets and Dictionaries Advanced - Exercise\06. Wardrobe\bin\Debug\net6.0\06. Wardrobe.runtimeconfig.json
+C:\Users\Amanite\source\repos\C#Advanced - January 2024\Sets and Dictionaries Advanced - Exercise\06. Wardrobe\bin\Debug\net6.0\06. Wardrobe.dll
+C:\Users\Amanite\source\repos\C#Advanced - January 2024\Sets and Dictionaries Advanced - Exercise\06. Wardrobe\bin\Debug\net6.0\06. Wardrobe.pdb
+C:\Users\Amanite\source\repos\C#Advanced - January 2024\Sets and Dictionaries Advanced - Exercise\06. Wardrobe\obj\Debug\net6.0\06. Wardrobe.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Amanite\source\repos\C#Advanced - January 2024\Sets and Dictionaries Advanced - Exercise\06. Wardrobe\obj\Debug\net6.0\06. Wardrobe.AssemblyInfoInputs.cache
+C:\Users\Amanite\source\repos\C#Advanced - January 2024\Sets and Dictionaries Advanced - Exercise\06. Wardrobe\obj\Debug\net6.0\06. Wardrobe.AssemblyInfo.cs
+C:\Users\Amanite\source\repos\C#Advanced - January 2024\Sets and Dictionaries Advanced - Exercise\06. Wardrobe\obj\Debug\net6.0\06. Wardrobe.csproj.CoreCompileInputs.cache
+C:\Users\Amanite\source\repos\C#Advanced - January 2024\Sets and Dictionaries Advanced - Exercise\06. Wardrobe\obj\Debug\net6.0\06. Wardrobe.sourcelink.json
+C:\Users\Amanite\source\repos\C#Advanced - January 2024\Sets and Dictionaries Advanced - Exercise\06. Wardrobe\obj\Debug\net6.0\06. Wardrobe.dll
+C:\Users\Amanite\source\repos\C#Advanced - January 2024\Sets and Dictionaries Advanced - Exercise\06. Wardrobe\obj\Debug\net6.0\refint\06. Wardrobe.dll
+C:\Users\Amanite\source\repos\C#Advanced - January 2024\Sets and Dictionaries Advanced - Exercise\06. Wardrobe\obj\Debug\net6.0\06. Wardrobe.pdb
+C:\Users\Amanite\source\repos\C#Advanced - January 2024\Sets and Dictionaries Advanced - Exercise\06. Wardrobe\obj\Debug\net6.0\06. Wardrobe.genruntimeconfig.cache
+C:\Users\Amanite\source\repos\C#Advanced - January 2024\Sets and Dictionaries Advanced - Exercise\06. Wardrobe\obj\Debug\net6.0\ref\06. Wardrobe.dll
