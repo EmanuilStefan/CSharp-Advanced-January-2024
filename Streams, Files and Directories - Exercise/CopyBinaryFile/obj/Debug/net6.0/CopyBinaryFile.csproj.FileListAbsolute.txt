@@ -1,0 +1,15 @@
+C:\Users\Amanite\source\repos\C#Advanced - January 2024\Streams, Files and Directories - Exercise\01. Even Lines\Skeleton-Exercise\CopyBinaryFile\bin\Debug\net6.0\CopyBinaryFile.exe
+C:\Users\Amanite\source\repos\C#Advanced - January 2024\Streams, Files and Directories - Exercise\01. Even Lines\Skeleton-Exercise\CopyBinaryFile\bin\Debug\net6.0\CopyBinaryFile.deps.json
+C:\Users\Amanite\source\repos\C#Advanced - January 2024\Streams, Files and Directories - Exercise\01. Even Lines\Skeleton-Exercise\CopyBinaryFile\bin\Debug\net6.0\CopyBinaryFile.runtimeconfig.json
+C:\Users\Amanite\source\repos\C#Advanced - January 2024\Streams, Files and Directories - Exercise\01. Even Lines\Skeleton-Exercise\CopyBinaryFile\bin\Debug\net6.0\CopyBinaryFile.dll
+C:\Users\Amanite\source\repos\C#Advanced - January 2024\Streams, Files and Directories - Exercise\01. Even Lines\Skeleton-Exercise\CopyBinaryFile\bin\Debug\net6.0\CopyBinaryFile.pdb
+C:\Users\Amanite\source\repos\C#Advanced - January 2024\Streams, Files and Directories - Exercise\01. Even Lines\Skeleton-Exercise\CopyBinaryFile\obj\Debug\net6.0\CopyBinaryFile.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Amanite\source\repos\C#Advanced - January 2024\Streams, Files and Directories - Exercise\01. Even Lines\Skeleton-Exercise\CopyBinaryFile\obj\Debug\net6.0\CopyBinaryFile.AssemblyInfoInputs.cache
+C:\Users\Amanite\source\repos\C#Advanced - January 2024\Streams, Files and Directories - Exercise\01. Even Lines\Skeleton-Exercise\CopyBinaryFile\obj\Debug\net6.0\CopyBinaryFile.AssemblyInfo.cs
+C:\Users\Amanite\source\repos\C#Advanced - January 2024\Streams, Files and Directories - Exercise\01. Even Lines\Skeleton-Exercise\CopyBinaryFile\obj\Debug\net6.0\CopyBinaryFile.csproj.CoreCompileInputs.cache
+C:\Users\Amanite\source\repos\C#Advanced - January 2024\Streams, Files and Directories - Exercise\01. Even Lines\Skeleton-Exercise\CopyBinaryFile\obj\Debug\net6.0\CopyBinaryFile.sourcelink.json
+C:\Users\Amanite\source\repos\C#Advanced - January 2024\Streams, Files and Directories - Exercise\01. Even Lines\Skeleton-Exercise\CopyBinaryFile\obj\Debug\net6.0\CopyBinaryFile.dll
+C:\Users\Amanite\source\repos\C#Advanced - January 2024\Streams, Files and Directories - Exercise\01. Even Lines\Skeleton-Exercise\CopyBinaryFile\obj\Debug\net6.0\refint\CopyBinaryFile.dll
+C:\Users\Amanite\source\repos\C#Advanced - January 2024\Streams, Files and Directories - Exercise\01. Even Lines\Skeleton-Exercise\CopyBinaryFile\obj\Debug\net6.0\CopyBinaryFile.pdb
+C:\Users\Amanite\source\repos\C#Advanced - January 2024\Streams, Files and Directories - Exercise\01. Even Lines\Skeleton-Exercise\CopyBinaryFile\obj\Debug\net6.0\CopyBinaryFile.genruntimeconfig.cache
+C:\Users\Amanite\source\repos\C#Advanced - January 2024\Streams, Files and Directories - Exercise\01. Even Lines\Skeleton-Exercise\CopyBinaryFile\obj\Debug\net6.0\ref\CopyBinaryFile.dll
