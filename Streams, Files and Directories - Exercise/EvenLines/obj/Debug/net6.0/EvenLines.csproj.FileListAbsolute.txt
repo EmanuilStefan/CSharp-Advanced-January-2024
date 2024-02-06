@@ -1,0 +1,15 @@
+C:\Users\Amanite\source\repos\C#Advanced - January 2024\Streams, Files and Directories - Exercise\01. Even Lines\Skeleton-Exercise\EvenLines\bin\Debug\net6.0\EvenLines.exe
+C:\Users\Amanite\source\repos\C#Advanced - January 2024\Streams, Files and Directories - Exercise\01. Even Lines\Skeleton-Exercise\EvenLines\bin\Debug\net6.0\EvenLines.deps.json
+C:\Users\Amanite\source\repos\C#Advanced - January 2024\Streams, Files and Directories - Exercise\01. Even Lines\Skeleton-Exercise\EvenLines\bin\Debug\net6.0\EvenLines.runtimeconfig.json
+C:\Users\Amanite\source\repos\C#Advanced - January 2024\Streams, Files and Directories - Exercise\01. Even Lines\Skeleton-Exercise\EvenLines\bin\Debug\net6.0\EvenLines.dll
+C:\Users\Amanite\source\repos\C#Advanced - January 2024\Streams, Files and Directories - Exercise\01. Even Lines\Skeleton-Exercise\EvenLines\bin\Debug\net6.0\EvenLines.pdb
+C:\Users\Amanite\source\repos\C#Advanced - January 2024\Streams, Files and Directories - Exercise\01. Even Lines\Skeleton-Exercise\EvenLines\obj\Debug\net6.0\EvenLines.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Amanite\source\repos\C#Advanced - January 2024\Streams, Files and Directories - Exercise\01. Even Lines\Skeleton-Exercise\EvenLines\obj\Debug\net6.0\EvenLines.AssemblyInfoInputs.cache
+C:\Users\Amanite\source\repos\C#Advanced - January 2024\Streams, Files and Directories - Exercise\01. Even Lines\Skeleton-Exercise\EvenLines\obj\Debug\net6.0\EvenLines.AssemblyInfo.cs
+C:\Users\Amanite\source\repos\C#Advanced - January 2024\Streams, Files and Directories - Exercise\01. Even Lines\Skeleton-Exercise\EvenLines\obj\Debug\net6.0\EvenLines.csproj.CoreCompileInputs.cache
+C:\Users\Amanite\source\repos\C#Advanced - January 2024\Streams, Files and Directories - Exercise\01. Even Lines\Skeleton-Exercise\EvenLines\obj\Debug\net6.0\EvenLines.sourcelink.json
+C:\Users\Amanite\source\repos\C#Advanced - January 2024\Streams, Files and Directories - Exercise\01. Even Lines\Skeleton-Exercise\EvenLines\obj\Debug\net6.0\EvenLines.dll
+C:\Users\Amanite\source\repos\C#Advanced - January 2024\Streams, Files and Directories - Exercise\01. Even Lines\Skeleton-Exercise\EvenLines\obj\Debug\net6.0\refint\EvenLines.dll
+C:\Users\Amanite\source\repos\C#Advanced - January 2024\Streams, Files and Directories - Exercise\01. Even Lines\Skeleton-Exercise\EvenLines\obj\Debug\net6.0\EvenLines.pdb
+C:\Users\Amanite\source\repos\C#Advanced - January 2024\Streams, Files and Directories - Exercise\01. Even Lines\Skeleton-Exercise\EvenLines\obj\Debug\net6.0\EvenLines.genruntimeconfig.cache
+C:\Users\Amanite\source\repos\C#Advanced - January 2024\Streams, Files and Directories - Exercise\01. Even Lines\Skeleton-Exercise\EvenLines\obj\Debug\net6.0\ref\EvenLines.dll
