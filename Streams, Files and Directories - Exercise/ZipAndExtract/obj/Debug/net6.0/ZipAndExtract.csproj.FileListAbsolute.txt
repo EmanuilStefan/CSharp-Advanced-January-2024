@@ -1,0 +1,15 @@
+C:\Users\Amanite\source\repos\C#Advanced - January 2024\Streams, Files and Directories - Exercise\01. Even Lines\Skeleton-Exercise\ZipAndExtract\bin\Debug\net6.0\ZipAndExtract.exe
+C:\Users\Amanite\source\repos\C#Advanced - January 2024\Streams, Files and Directories - Exercise\01. Even Lines\Skeleton-Exercise\ZipAndExtract\bin\Debug\net6.0\ZipAndExtract.deps.json
+C:\Users\Amanite\source\repos\C#Advanced - January 2024\Streams, Files and Directories - Exercise\01. Even Lines\Skeleton-Exercise\ZipAndExtract\bin\Debug\net6.0\ZipAndExtract.runtimeconfig.json
+C:\Users\Amanite\source\repos\C#Advanced - January 2024\Streams, Files and Directories - Exercise\01. Even Lines\Skeleton-Exercise\ZipAndExtract\bin\Debug\net6.0\ZipAndExtract.dll
+C:\Users\Amanite\source\repos\C#Advanced - January 2024\Streams, Files and Directories - Exercise\01. Even Lines\Skeleton-Exercise\ZipAndExtract\bin\Debug\net6.0\ZipAndExtract.pdb
+C:\Users\Amanite\source\repos\C#Advanced - January 2024\Streams, Files and Directories - Exercise\01. Even Lines\Skeleton-Exercise\ZipAndExtract\obj\Debug\net6.0\ZipAndExtract.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Amanite\source\repos\C#Advanced - January 2024\Streams, Files and Directories - Exercise\01. Even Lines\Skeleton-Exercise\ZipAndExtract\obj\Debug\net6.0\ZipAndExtract.AssemblyInfoInputs.cache
+C:\Users\Amanite\source\repos\C#Advanced - January 2024\Streams, Files and Directories - Exercise\01. Even Lines\Skeleton-Exercise\ZipAndExtract\obj\Debug\net6.0\ZipAndExtract.AssemblyInfo.cs
+C:\Users\Amanite\source\repos\C#Advanced - January 2024\Streams, Files and Directories - Exercise\01. Even Lines\Skeleton-Exercise\ZipAndExtract\obj\Debug\net6.0\ZipAndExtract.csproj.CoreCompileInputs.cache
+C:\Users\Amanite\source\repos\C#Advanced - January 2024\Streams, Files and Directories - Exercise\01. Even Lines\Skeleton-Exercise\ZipAndExtract\obj\Debug\net6.0\ZipAndExtract.sourcelink.json
+C:\Users\Amanite\source\repos\C#Advanced - January 2024\Streams, Files and Directories - Exercise\01. Even Lines\Skeleton-Exercise\ZipAndExtract\obj\Debug\net6.0\ZipAndExtract.dll
+C:\Users\Amanite\source\repos\C#Advanced - January 2024\Streams, Files and Directories - Exercise\01. Even Lines\Skeleton-Exercise\ZipAndExtract\obj\Debug\net6.0\refint\ZipAndExtract.dll
+C:\Users\Amanite\source\repos\C#Advanced - January 2024\Streams, Files and Directories - Exercise\01. Even Lines\Skeleton-Exercise\ZipAndExtract\obj\Debug\net6.0\ZipAndExtract.pdb
+C:\Users\Amanite\source\repos\C#Advanced - January 2024\Streams, Files and Directories - Exercise\01. Even Lines\Skeleton-Exercise\ZipAndExtract\obj\Debug\net6.0\ZipAndExtract.genruntimeconfig.cache
+C:\Users\Amanite\source\repos\C#Advanced - January 2024\Streams, Files and Directories - Exercise\01. Even Lines\Skeleton-Exercise\ZipAndExtract\obj\Debug\net6.0\ref\ZipAndExtract.dll
